@@ -1,4 +1,4 @@
 package com.koit.pt2;
 
-public class TestGit {
+public class testGit {
 }
